@@ -1,0 +1,39 @@
+
+.product-ad-container{
+
+    width: 100%;
+ 
+
+}
+
+.firstSection{ 
+    height: 40vh;
+    display: flex;
+    width: 100vw;
+}
+
+.firstSection > img {
+    width: 100vw;
+    
+}
+
+.secondSection{ 
+    height: 40vh;
+    width:  100vw;
+    
+}
+
+.secondSection >video{ 
+    height: 40vh; 
+    width:100vw;
+    
+}
+
+
+.thirdSection{
+    width:  100vw;
+    height: 20vh;
+    font-size: 150%;
+    color:white;
+    background-color:rgb(0, 78, 129);
+}
